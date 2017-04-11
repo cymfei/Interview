@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\Interaction\UIPlayAnimation.cs">
+    <Files>
+      <File FileName="Assets\AstarPathfindingProject\ExampleScenes\Example13_Moving\BezierMover.cs" Line="63" Column="16" />
+      <File FileName="Assets\Scripts\AnimationTexture.cs" Line="79" Column="61" />
+      <File FileName="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Internal\NGUIDebug.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\PropertyReferenceDrawer.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UICameraTool.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UICreateNewUIWizard.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\SpriteSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UICreateWidgetWizard.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UIDrawCallViewer.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UIFontMaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UIPanelTool.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIKeyBinding.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UICamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Tweening\UITweener.cs" Line="105" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIPlayAnimation.cs" Line="280" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
